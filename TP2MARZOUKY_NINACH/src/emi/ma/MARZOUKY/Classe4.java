@@ -3,7 +3,7 @@ package emi.ma.MARZOUKY;
 public class Classe4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Omar");
 
 	}
 
